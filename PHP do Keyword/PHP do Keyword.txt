@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$i = 5;
+do {
+  echo $i;
+  echo "<br>";
+  $i--;
+} while($i > 6);
+?>
+
+</body>
+</html>
+
+
+
+
+
+5
